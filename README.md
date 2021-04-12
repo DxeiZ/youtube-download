@@ -1,4 +1,4 @@
-# Youtube setup download
+# Youtube video download
 Downloading videos from Youtube
 
 Setup:
