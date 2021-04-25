@@ -34,7 +34,7 @@ for i in range(3):
     win.columnconfigure(i, weight=1, minsize=75)
     win.rowconfigure(i, weight=1, minsize=50)
 win.geometry("500x300")
-win.title("Youtube Video Downloader - Krios Software")
+win.title("Youtube Video Downloader")
 frame = ttk.LabelFrame(master=win, relief=tk.RAISED, borderwidth=0)
 frame.grid(row=0, column=0, padx=50, pady=50)
 frame.pack()
